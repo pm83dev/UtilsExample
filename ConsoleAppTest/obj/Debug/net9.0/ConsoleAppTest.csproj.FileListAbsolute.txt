@@ -1,0 +1,14 @@
+C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.AssemblyInfo.cs
+C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Project\ConsoleAppTest\ConsoleAppTest\bin\Debug\net9.0\ConsoleAppTest.exe
+C:\Project\ConsoleAppTest\ConsoleAppTest\bin\Debug\net9.0\ConsoleAppTest.deps.json
+C:\Project\ConsoleAppTest\ConsoleAppTest\bin\Debug\net9.0\ConsoleAppTest.runtimeconfig.json
+C:\Project\ConsoleAppTest\ConsoleAppTest\bin\Debug\net9.0\ConsoleAppTest.dll
+C:\Project\ConsoleAppTest\ConsoleAppTest\bin\Debug\net9.0\ConsoleAppTest.pdb
+C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.dll
+C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\refint\ConsoleAppTest.dll
+C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.pdb
+C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.genruntimeconfig.cache
+C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ref\ConsoleAppTest.dll
