@@ -12,3 +12,4 @@ C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\refint\ConsoleAppTest.
 C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.pdb
 C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.genruntimeconfig.cache
 C:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ref\ConsoleAppTest.dll
+c:\Project\ConsoleAppTest\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.sourcelink.json
